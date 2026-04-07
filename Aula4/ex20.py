@@ -10,3 +10,4 @@ elif mes in ["setembro", "outubro", "novembro"]:
     print("Primaveira")
 else:
     print("Mês inválido.")
+    print("teste git")
